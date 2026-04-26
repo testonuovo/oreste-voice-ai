@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- HOME -->
+  <url>
+    <loc>https://fantastic-llama-19c1bd.netlify.app/</loc>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <!-- CHI SIAMO -->
+  <url>
+    <loc>https://fantastic-llama-19c1bd.netlify.app/about.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- FUNZIONI -->
+  <url>
+    <loc>https://fantastic-llama-19c1bd.netlify.app/funzioni.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- CONTATTI -->
+  <url>
+    <loc>https://fantastic-llama-19c1bd.netlify.app/contatti.html</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>
